@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 Software Engineer with experience in building responsive and user-friendly web applications. Passionate about delivering high-quality, accessible, and modern web experiences.
 
-- 🌱 I’m currently learning Web 3.0
-- 👯 I’m looking to collaborate on Web 3.0 projects
-
 ## Skills
 
 - HTML
