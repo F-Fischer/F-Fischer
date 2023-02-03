@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **F-Fischer/F-Fischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Francisco Fischer
+
+Software Engineer with experience in building responsive and user-friendly web applications. Passionate about delivering high-quality, accessible, and modern web experiences.
+
+- 🌱 I’m currently learning Web 3.0
+- 👯 I’m looking to collaborate on Web 3.0 projects
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- Python
+
+## Education
+
+- Software Engineer - Universidad Católica de Córdoba (2017)
+- Master of Business Administration - IAE Business School (2022)
+- Data Scientist - Le wagon (2022)
+
+## Contact
+
+Feel free to reach out to me on LinkedIn or email to discuss potential opportunities or just to say hello!
+
+- LinkedIn: [Francisco Fischer](https://www.linkedin.com/in/francisco-fischer/)
+- Email: francisco.fischer92@gmail.com
