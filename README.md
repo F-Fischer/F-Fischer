@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Francisco Fischer
 
-Software Engineer with experience in building responsive and user-friendly web applications. Passionate about delivering high-quality, accessible, and modern web experiences.
+Software Engineer and MBA with a strong background in creating responsive and user-friendly web applications. I am passionate about delivering high-quality, accessible, and modern web experiences. I've recently earned an MBA and believe this combination allows me to not only build technically sound solutions, but also ensures that they align with the overall goals and objectives of the organization.
 
 ## Skills
 
