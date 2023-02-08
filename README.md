@@ -28,15 +28,16 @@ Software Engineer with experience in building responsive and user-friendly web a
 ## Professional Experience
 
 - Chief Technology Officer - [Legalify](https://www.legalify.app/) | (2022)
-- Software Engineer - SimTLiX (now Intive) | (2020-2021)
+- Software Engineer - [SimTLiX (now Intive)](https://intive.com/) | (2020-2021)
 - Co-Founder/Software Developer - MuxTeam (2022)
 - Software Developer at  [Tycon](https://www.tycon.com.ar/), [Globant](https://www.globant.com/), [Hexacta](https://www.hexacta.com/) (2016-2019)
 
 ## Education
 
-- Software Engineer - Universidad Católica de Córdoba (2017)
-- Master of Business Administration - IAE Business School (2022)
-- Data Scientist - Le wagon (2022)
+- Master of Business Administration / Exchange - [University of Illinois Chicago](https://www.uic.edu/) (2022)
+- Software Engineer - [Universidad Católica de Córdoba](https://www.ucc.edu.ar/) (2017)
+- Master of Business Administration - [IAE Business School](https://www.iae.edu.ar/) (2022)
+- Data Scientist - [le wagon](https://www.lewagon.com/) (2022)
 
 ## Contact
 
