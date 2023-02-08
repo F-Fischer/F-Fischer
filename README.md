@@ -20,12 +20,17 @@ Software Engineer with experience in building responsive and user-friendly web a
 
 ## Skills
 
-- HTML
-- CSS
 - JavaScript
 - React
 - Angular
 - Python
+
+## Professional Experience
+
+- Chief Technology Officer - [Legalify](https://www.legalify.app/) | (2022)
+- Software Engineer - SimTLiX (now Intive) | (2020-2021)
+- Co-Founder/Software Developer - MuxTeam (2022)
+- Software Developer at  [Tycon](https://www.tycon.com.ar/), [Globant](https://www.globant.com/), [Hexacta](https://www.hexacta.com/) (2016-2019)
 
 ## Education
 
