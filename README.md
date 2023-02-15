@@ -29,7 +29,7 @@ Software Engineer and MBA with a strong background in creating responsive and us
 
 - Chief Technology Officer - [Legalify](https://www.legalify.app/) | (2022)
 - Software Engineer - [SimTLiX (now Intive)](https://intive.com/) | (2020-2021)
-- Co-Founder/Software Developer - MuxTeam (2022)
+- Co-Founder/Software Engineer - MuxTeam (2022)
 - Software Developer at  [Tycon](https://www.tycon.com.ar/), [Globant](https://www.globant.com/), [Hexacta](https://www.hexacta.com/) (2016-2019)
 
 ## Education
