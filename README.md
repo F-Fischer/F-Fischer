@@ -38,6 +38,7 @@ Software Engineer and MBA with a strong background in creating responsive and us
 - Software Engineer - [Universidad Católica de Córdoba](https://www.ucc.edu.ar/) (2017)
 - Master of Business Administration - [IAE Business School](https://www.iae.edu.ar/) (2022)
 - Data Scientist - [le wagon](https://www.lewagon.com/) (2022)
+- Cloud Computing (AWS) - [CoderHouse](https://www.coderhouse.com/) (2023)
 
 ## Contact
 
