@@ -27,6 +27,8 @@ Software Engineer and MBA with a strong background in creating responsive and us
 
 ## Professional Experience
 
+- Senior Software Engineer - [Globant](https://www.globant.com/)
+- Software Engineer - [Minutentag](https://www.minutentag.com/) | (2023-2024)
 - Chief Technology Officer - [Legalify](https://www.legalify.app/) | (2022)
 - Software Engineer - [SimTLiX (now Intive)](https://intive.com/) | (2020-2021)
 - Co-Founder/Software Engineer - MuxTeam (2022)
