@@ -1,50 +1,80 @@
-
-<!--
-**F-Fischer/F-Fischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Francisco Fischer
 
-Software Engineer and MBA with a strong background in creating responsive and user-friendly web applications. I am passionate about delivering high-quality, accessible, and modern web experiences. I've recently earned an MBA and believe this combination allows me to not only build technically sound solutions, but also ensures that they align with the overall goals and objectives of the organization.
+Senior Software Engineer | Frontend Performance & SSR | MBA
 
-## Skills
+I build high-impact web applications that combine performance, scalability, and business outcomes.
 
-- JavaScript
-- React
-- Angular
-- Python
+With ~10 years of experience as a full-stack engineer, I’ve recently focused on frontend architecture, SSR adoption, and performance optimization at scale — improving metrics directly tied to SEO, user experience, and conversion.
 
-## Professional Experience
+My MBA background allows me to bridge the gap between engineering and business, helping teams make better technical decisions aligned with product and growth goals.
 
-- Senior Software Engineer - [Globant](https://www.globant.com/) | (2024 - ...)
-- Software Engineer - [Minutentag](https://www.minutentag.com/) | (2023-2024)
-- Chief Technology Officer - [Legalify](https://www.legalify.app/) | (2022)
-- Software Engineer - [SimTLiX (now Intive)](https://intive.com/) | (2020-2021)
-- Co-Founder/Software Engineer - MuxTeam (2022)
-- Software Developer at  [Tycon](https://www.tycon.com.ar/), [Globant](https://www.globant.com/), [Hexacta](https://www.hexacta.com/) (2016-2019)
+---
 
-## Education
+## 🚀 What I’m focused on
 
-- Master of Business Administration / Exchange - [University of Illinois Chicago](https://www.uic.edu/) (2022)
-- Software Engineer - [Universidad Católica de Córdoba](https://www.ucc.edu.ar/) (2017)
-- Master of Business Administration - [IAE Business School](https://www.iae.edu.ar/) (2022)
-- Data Scientist - [le wagon](https://www.lewagon.com/) (2022)
-- Cloud Computing (AWS) - [CoderHouse](https://www.coderhouse.com/) (2023)
+- Server-Side Rendering (SSR) & Hydration strategies
+- Frontend performance optimization (CLS, LCP, bundle size, caching)
+- Scalable UI architectures (Angular, React, component libraries)
+- Bridging technical solutions with business impact
+- Exploring AI-driven products and agent-based workflows
 
-## Contact
+---
 
-Feel free to reach out to me on LinkedIn or email to discuss potential opportunities or just to say hello!
+## 🛠 Tech Stack
 
-- LinkedIn: [Francisco Fischer](https://www.linkedin.com/in/francisco-fischer/)
+**Frontend**
+- Angular, React, TypeScript
+- SSR, Hydration, Lazy Loading, Performance optimization
+
+**Backend**
+- Node.js, NestJS, REST APIs,
+
+**Infrastructure & Tools**
+- Vercel, AWS, Docker
+- CI/CD (Jenkins, Harness)
+
+---
+
+## 💼 Experience
+
+**Senior Software Engineer** — [Globant](https://www.globant.com/)  
+*2024 – Present*  
+- Leading frontend performance and SSR initiatives for large-scale applications  
+- Driving improvements in SEO, load times, and user experience  
+
+**Software Engineer** — [Minutentag](https://www.minutentag.com/)  
+*2023 – 2024*
+
+**Chief Technology Officer** — [Legalify](https://www.legalify.app/)  
+*2022*
+
+**Software Engineer** — [SimTLiX / Intive](https://intive.com/)  
+*2020 – 2021*
+
+**Co-Founder & Engineer** — MuxTeam  
+*2022*
+
+**Software Developer** — Tycon / Globant / Hexacta  
+*2016 – 2019*
+
+---
+
+## 🎓 Education
+
+- MBA — IAE Business School  
+- MBA Exchange — University of Illinois Chicago  
+- Software Engineering — Universidad Católica de Córdoba  
+- Data Science — Le Wagon  
+- Cloud Computing (AWS) — CoderHouse  
+
+---
+
+## 🤝 Let’s connect
+
+I’m always open to discussing:
+- High-impact engineering roles (Staff / Principal)
+- AI-driven products and startups
+- Performance & architecture challenges
+
+- LinkedIn: https://www.linkedin.com/in/francisco-fischer/  
 - Email: francisco.fischer92@gmail.com
