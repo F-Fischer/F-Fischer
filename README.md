@@ -1,80 +1,65 @@
 # Francisco Fischer
 
-Senior Software Engineer | Frontend Performance & SSR | MBA
+> I understand products. I build software. I craft music. I combine all three.
 
-I build high-impact web applications that combine performance, scalability, and business outcomes.
+I'm a software engineer with a business background and a long-term passion for music technology.
 
-With ~10 years of experience as a full-stack engineer, I’ve recently focused on frontend architecture, SSR adoption, and performance optimization at scale — improving metrics directly tied to SEO, user experience, and conversion.
+Over the past decade, I've built products ranging from startup MVPs to large-scale web applications, with a recent focus on frontend architecture, SSR, performance, and developer experience.
 
-My MBA background allows me to bridge the gap between engineering and business, helping teams make better technical decisions aligned with product and growth goals.
+Alongside my engineering career, I completed an MBA and have been progressively building projects that combine software, AI, and music. My goal is to create technology that helps people create, experience, and interact with music in new ways.
 
----
+## Current Focus
 
-## 🚀 What I’m focused on
+* Frontend architecture & performance
+* React, Angular & TypeScript
+* AI-powered developer and music workflows
+* Audio technology experiments
+* Interactive web experiences
 
-- Server-Side Rendering (SSR) & Hydration strategies
-- Frontend performance optimization (CLS, LCP, bundle size, caching)
-- Scalable UI architectures (Angular, React, component libraries)
-- Bridging technical solutions with business impact
-- Exploring AI-driven products and agent-based workflows
-
----
-
-## 🛠 Tech Stack
+## Selected Technologies
 
 **Frontend**
-- Angular, React, TypeScript
-- SSR, Hydration, Lazy Loading, Performance optimization
+
+* React
+* Angular
+* TypeScript
+* Next.js
+* Three.js
+* Web Audio API
 
 **Backend**
-- Node.js, NestJS, REST APIs,
 
-**Infrastructure & Tools**
-- Vercel, AWS, Docker
-- CI/CD (Jenkins, Harness)
+* Node.js
+* NestJS
+* Python
 
----
+**Infrastructure**
 
-## 💼 Experience
+* AWS
+* Docker
+* Vercel
+* CI/CD
 
-**Senior Software Engineer** — [Globant](https://www.globant.com/)  
-*2024 – Present*  
-- Leading frontend performance and SSR initiatives for large-scale applications  
-- Driving improvements in SEO, load times, and user experience  
+## Current Projects
 
-**Software Engineer** — [Minutentag](https://www.minutentag.com/)  
-*2023 – 2024*
+* Interactive audio experiences
+* Audio analysis & visualization
+* AI workflows for music production
+* Experimental tools for creators
 
-**Chief Technology Officer** — [Legalify](https://www.legalify.app/)  
-*2022*
+## Philosophy
 
-**Software Engineer** — [SimTLiX / Intive](https://intive.com/)  
-*2020 – 2021*
+I enjoy working where technology, product thinking and creativity overlap.
 
-**Co-Founder & Engineer** — MuxTeam  
-*2022*
-
-**Software Developer** — Tycon / Globant / Hexacta  
-*2016 – 2019*
+The projects in this profile reflect that direction: building software that is technically solid, product-driven and, whenever possible, connected to music.
 
 ---
 
-## 🎓 Education
+**Website**
+https://therealnarf.com
 
-- MBA — IAE Business School  
-- MBA Exchange — University of Illinois Chicago  
-- Software Engineering — Universidad Católica de Córdoba  
-- Data Science — Le Wagon  
-- Cloud Computing (AWS) — CoderHouse  
+**LinkedIn**
+https://www.linkedin.com/in/francisco-fischer/
 
----
-
-## 🤝 Let’s connect
-
-I’m always open to discussing:
-- High-impact engineering roles (Staff / Principal)
-- AI-driven products and startups
-- Performance & architecture challenges
-
-- LinkedIn: https://www.linkedin.com/in/francisco-fischer/  
-- Email: francisco.fischer92@gmail.com
+**Email**
+[francisco.fischer92@gmail.com](mailto:francisco.fischer92@gmail.com)
