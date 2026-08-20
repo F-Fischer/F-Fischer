@@ -16,29 +16,6 @@ Alongside my engineering career, I completed an MBA and have been progressively 
 * Audio technology experiments
 * Interactive web experiences
 
-## Selected Technologies
-
-**Frontend**
-
-* React
-* Angular
-* TypeScript
-* Next.js
-* Three.js
-* Web Audio API
-
-**Backend**
-
-* Node.js
-* NestJS
-
-**Infrastructure**
-
-* AWS
-* Docker
-* Vercel
-* CI/CD
-
 ## Philosophy
 
 I enjoy working where technology, product thinking and creativity overlap.
