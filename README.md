@@ -4,15 +4,15 @@
 
 I'm a software engineer with a business background and a long-term passion for music technology.
 
-Over the past decade, I've built products ranging from startup MVPs to large-scale web applications, with a recent focus on frontend architecture, SSR, performance, and developer experience.
+Over the past decade, I've built products ranging from startup MVPs to large-scale web applications, with a recent focus on RAG systems, frontend architecture, SSR, performance, and developer experience.
 
 Alongside my engineering career, I completed an MBA and have been progressively building projects that combine software, AI, and music. My goal is to create technology that helps people create, experience, and interact with music in new ways.
 
 ## Current Focus
 
 * Frontend architecture & performance
+* RAG Systems
 * React, Angular & TypeScript
-* AI-powered developer and music workflows
 * Audio technology experiments
 * Interactive web experiences
 
@@ -31,7 +31,6 @@ Alongside my engineering career, I completed an MBA and have been progressively 
 
 * Node.js
 * NestJS
-* Python
 
 **Infrastructure**
 
@@ -39,13 +38,6 @@ Alongside my engineering career, I completed an MBA and have been progressively 
 * Docker
 * Vercel
 * CI/CD
-
-## Current Projects
-
-* Interactive audio experiences
-* Audio analysis & visualization
-* AI workflows for music production
-* Experimental tools for creators
 
 ## Philosophy
 
