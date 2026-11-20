@@ -17,6 +17,10 @@ Particularly interested in:
 - 🎛️ **Music technology**
 - 💸 **The design of systems that move and manage value**
 
+## Contact
+
+- 💼 LinkedIn: [francisco-fischer](https://www.linkedin.com/in/francisco-fischer/)
+
 ## Featured projects
 
 | Project | What it is | Stack |
@@ -33,10 +37,6 @@ Particularly interested in:
 
 - 🌐 Website: [therealnarf.com](https://therealnarf.com)
 - 🎧 SoundCloud: [therealnarf](https://soundcloud.com/therealnarf)
-
-## Contact
-
-- 💼 LinkedIn: [francisco-fischer](https://www.linkedin.com/in/francisco-fischer/)
 
 ---
 
