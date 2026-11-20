@@ -1,34 +1,11 @@
-# Francisco Fischer
+Francisco Fischer
 
-> I understand products. I build software. I craft music. I combine all three.
+Software Engineer
 
-I'm a software engineer with a business background and a long-term passion for music technology.
+I enjoy understanding how things work, questioning assumptions, and building simple solutions to complex problems.
 
-Over the past decade, I've built products ranging from startup MVPs to large-scale web applications, with a recent focus on RAG systems, frontend architecture, SSR, performance, and developer experience.
+Particularly interested in music technology and the design of systems that move and manage value.
 
-Alongside my engineering career, I completed an MBA and have been progressively building projects that combine software, AI, and music. My goal is to create technology that helps people create, experience, and interact with music in new ways.
+⸻
 
-## Current Focus
-
-* Frontend architecture & performance
-* RAG Systems
-* React, Angular & TypeScript
-* Audio technology experiments
-* Interactive web experiences
-
-## Philosophy
-
-I enjoy working where technology, product thinking and creativity overlap.
-
-The projects in this profile reflect that direction: building software that is technically solid, product-driven and, whenever possible, connected to music.
-
----
-
-**Website**
-https://therealnarf.com
-
-**LinkedIn**
-https://www.linkedin.com/in/francisco-fischer/
-
-**Email**
-[francisco.fischer92@gmail.com](mailto:francisco.fischer92@gmail.com)
+Keep learning. Keep building.
